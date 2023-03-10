@@ -1,3 +1,5 @@
 # ingore .md files
 
 *.md
+
+*.txt
